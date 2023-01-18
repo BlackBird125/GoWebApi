@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/budougumi0617/go_todo_app/config"
-	"github.com/budougumi0617/go_todo_app/entity"
+	"github.com/BlackBird125/GoWebApi/config"
+	"github.com/BlackBird125/GoWebApi/entity"
 	"github.com/go-redis/redis/v8"
 )
 
